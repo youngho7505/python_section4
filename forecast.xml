@@ -6,18 +6,18 @@
 <description>기상청 날씨 웹서비스</description>
 <language>ko</language>
 <generator>기상청</generator>
-<pubDate>2018년 10월 17일 (수)요일 18:00</pubDate>
+<pubDate>2018년 10월 18일 (목)요일 18:00</pubDate>
  <item>
 <author>기상청</author>
 <category>육상중기예보</category>
-<title>전국 육상 중기예보 - 2018년 10월 17일 (수)요일 18:00 발표</title>
+<title>전국 육상 중기예보 - 2018년 10월 18일 (목)요일 18:00 발표</title>
 <link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
 <guid>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</guid>
 <description>
 	<header>
 		<title>전국 육상중기예보</title>
-		<tm>201810171800</tm>
-		<wf><![CDATA[이번 예보기간에는 고기압의 영향으로 대체로 맑은 날이 많겠습니다.<br />기온은 평년(최저기온: 2~13℃, 최고기온: 16~22℃)과 비슷하겠습니다. <br />강수량은 평년(0~5mm)보다 적겠습니다.<br /><br />* 대체로 맑은 날씨가 이어지면서 대기가 건조하겠으니, 화재예방에 각별히 유의하기 바랍니다.]]></wf>
+		<tm>201810181800</tm>
+		<wf><![CDATA[기압골의 영향으로 23일에는 중부지방에 비가 오겠고, 그 밖의 날은 고기압의 영향으로 대체로 맑은 날이 많겠습니다.<br />기온은 평년(최저기온: 2~13℃, 최고기온: 16~21℃)과 비슷하겠습니다. <br />강수량은 평년(0~5mm)보다 중부지방은 많겠으나, 남부지방은 적겠습니다.<br /><br />* 대체로 맑은 날씨가 이어지면서 대기가 건조하겠으니, 화재예방에 각별히 유의하기 바랍니다.]]></wf>
 	</header>
 	<body>
 				
@@ -28,30 +28,10 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>8</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>8</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>19</tmx>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -60,8 +40,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-21 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>9</tmn>
-					<tmx>19</tmx>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -71,7 +51,7 @@
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>9</tmn>
-					<tmx>19</tmx>
+					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -81,7 +61,7 @@
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>9</tmn>
-					<tmx>19</tmx>
+					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -90,7 +70,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>11</tmn>
+					<tmn>10</tmn>
 					<tmx>17</tmx>
 					<reliability>낮음</reliability>
 				</data>
@@ -99,10 +79,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>11</tmn>
+					<wf>흐리고 비</wf>
+					<tmn>10</tmn>
 					<tmx>17</tmx>
-					<reliability>낮음</reliability>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -127,10 +107,20 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>10</tmn>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>9</tmn>
 					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -140,9 +130,9 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-26 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>9</tmn>
+					<tmn>10</tmn>
 					<tmx>17</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -152,6 +142,16 @@
 					<wf>구름조금</wf>
 					<tmn>8</tmn>
 					<tmx>16</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>8</tmn>
+					<tmx>15</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -164,26 +164,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>18</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>18</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>10</tmn>
@@ -207,7 +187,7 @@
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>11</tmn>
-					<tmx>19</tmx>
+					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -217,7 +197,7 @@
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>11</tmn>
-					<tmx>19</tmx>
+					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -235,10 +215,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐리고 비</wf>
 					<tmn>12</tmn>
 					<tmx>17</tmx>
-					<reliability>낮음</reliability>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -263,10 +243,20 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>11</tmn>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>10</tmn>
 					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -277,8 +267,8 @@
 					<tmEf>2018-10-26 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>10</tmn>
-					<tmx>16</tmx>
-					<reliability>보통</reliability>
+					<tmx>17</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -287,6 +277,16 @@
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>9</tmn>
+					<tmx>15</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>8</tmn>
 					<tmx>15</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -300,26 +300,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>5</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>5</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>6</tmn>
@@ -371,10 +351,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐리고 비</wf>
 					<tmn>10</tmn>
 					<tmx>18</tmx>
-					<reliability>낮음</reliability>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -399,8 +379,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>7</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>7</tmn>
 					<tmx>19</tmx>
@@ -414,7 +404,7 @@
 					<wf>구름많음</wf>
 					<tmn>8</tmn>
 					<tmx>18</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -423,7 +413,17 @@
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>7</tmn>
-					<tmx>17</tmx>
+					<tmx>16</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -433,26 +433,6 @@
 		<location wl_ver="3">
 				<province>서울ㆍ인천ㆍ경기도</province>
 				<city>파주</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>3</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>3</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
 				
 				<data>
 					<mode>A02</mode>
@@ -478,7 +458,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>5</tmn>
+					<tmn>4</tmn>
 					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -488,7 +468,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>5</tmn>
+					<tmn>4</tmn>
 					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -498,7 +478,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>8</tmn>
+					<tmn>7</tmn>
 					<tmx>17</tmx>
 					<reliability>낮음</reliability>
 				</data>
@@ -507,10 +487,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>8</tmn>
+					<wf>흐리고 비</wf>
+					<tmn>7</tmn>
 					<tmx>17</tmx>
-					<reliability>낮음</reliability>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -535,8 +515,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>4</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>4</tmn>
 					<tmx>18</tmx>
@@ -550,7 +540,7 @@
 					<wf>구름많음</wf>
 					<tmn>5</tmn>
 					<tmx>17</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -558,8 +548,18 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>3</tmn>
-					<tmx>16</tmx>
+					<tmn>4</tmn>
+					<tmx>14</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>1</tmn>
+					<tmx>14</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -574,30 +574,10 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>18</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>18</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>5</tmn>
-					<tmx>18</tmx>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -607,7 +587,7 @@
 					<tmEf>2018-10-21 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>5</tmn>
-					<tmx>18</tmx>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -617,7 +597,7 @@
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
-					<tmx>18</tmx>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -627,7 +607,7 @@
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
-					<tmx>18</tmx>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -645,10 +625,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐리고 비</wf>
 					<tmn>8</tmn>
 					<tmx>17</tmx>
-					<reliability>낮음</reliability>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -673,8 +653,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>6</tmn>
+					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
 					<tmx>17</tmx>
@@ -688,7 +678,7 @@
 					<wf>구름많음</wf>
 					<tmn>5</tmn>
 					<tmx>16</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -698,6 +688,16 @@
 					<wf>구름조금</wf>
 					<tmn>5</tmn>
 					<tmx>16</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>4</tmn>
+					<tmx>15</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -710,26 +710,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>5</tmn>
@@ -781,10 +761,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐리고 비</wf>
 					<tmn>9</tmn>
 					<tmx>17</tmx>
-					<reliability>낮음</reliability>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -809,8 +789,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
 					<tmx>16</tmx>
@@ -824,7 +814,7 @@
 					<wf>구름많음</wf>
 					<tmn>6</tmn>
 					<tmx>16</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -834,6 +824,16 @@
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
 					<tmx>15</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>4</tmn>
+					<tmx>14</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -848,30 +848,10 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>20</tmx>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -880,8 +860,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-21 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>9</tmn>
-					<tmx>20</tmx>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -891,7 +871,7 @@
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>10</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -901,7 +881,7 @@
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>10</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -910,8 +890,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>11</tmn>
-					<tmx>20</tmx>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -919,10 +899,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>11</tmn>
-					<tmx>20</tmx>
-					<reliability>낮음</reliability>
+					<wf>흐리고 비</wf>
+					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -947,10 +927,20 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>12</tmn>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>11</tmn>
 					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -970,8 +960,18 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>10</tmn>
+					<tmn>11</tmn>
 					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>9</tmn>
+					<tmx>16</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -986,26 +986,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>6</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>6</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>6</tmn>
@@ -1057,10 +1037,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
+					<wf>구름많고 비</wf>
 					<tmn>9</tmn>
 					<tmx>19</tmx>
-					<reliability>낮음</reliability>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -1085,8 +1065,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>8</tmn>
 					<tmx>19</tmx>
@@ -1100,7 +1090,7 @@
 					<wf>구름많음</wf>
 					<tmn>8</tmn>
 					<tmx>18</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -1110,6 +1100,16 @@
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
 					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>5</tmn>
+					<tmx>15</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1122,26 +1122,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>4</tmn>
@@ -1193,10 +1173,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
+					<wf>구름많고 비</wf>
 					<tmn>8</tmn>
 					<tmx>19</tmx>
-					<reliability>낮음</reliability>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -1221,8 +1201,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>6</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
 					<tmx>18</tmx>
@@ -1236,7 +1226,7 @@
 					<wf>구름많음</wf>
 					<tmn>6</tmn>
 					<tmx>18</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -1246,6 +1236,16 @@
 					<wf>구름조금</wf>
 					<tmn>4</tmn>
 					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>3</tmn>
+					<tmx>14</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1258,26 +1258,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>4</tmn>
@@ -1329,10 +1309,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
+					<wf>구름많고 비</wf>
 					<tmn>8</tmn>
 					<tmx>18</tmx>
-					<reliability>낮음</reliability>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -1357,8 +1337,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>6</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
 					<tmx>18</tmx>
@@ -1372,7 +1362,7 @@
 					<wf>구름많음</wf>
 					<tmn>7</tmn>
 					<tmx>17</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -1382,6 +1372,16 @@
 					<wf>구름조금</wf>
 					<tmn>4</tmn>
 					<tmx>16</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>3</tmn>
+					<tmx>14</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1396,30 +1396,10 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>6</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>6</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
-					<tmn>6</tmn>
-					<tmx>20</tmx>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1428,8 +1408,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-21 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>6</tmn>
-					<tmx>20</tmx>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1458,8 +1438,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>9</tmn>
-					<tmx>18</tmx>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -1467,10 +1447,10 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
-					<wf>구름많음</wf>
-					<tmn>9</tmn>
-					<tmx>18</tmx>
-					<reliability>낮음</reliability>
+					<wf>구름많고 비</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 				
@@ -1495,10 +1475,20 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>8</tmn>
+					<tmn>7</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>7</tmn>
 					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -1509,8 +1499,8 @@
 					<tmEf>2018-10-26 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>8</tmn>
-					<tmx>18</tmx>
-					<reliability>보통</reliability>
+					<tmx>17</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -1520,6 +1510,16 @@
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
 					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1534,26 +1534,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>7</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>7</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>8</tmn>
@@ -1576,8 +1556,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>10</tmn>
-					<tmx>20</tmx>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1586,8 +1566,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>10</tmn>
-					<tmx>20</tmx>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1597,7 +1577,7 @@
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>14</tmn>
-					<tmx>19</tmx>
+					<tmx>21</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -1607,7 +1587,7 @@
 					<tmEf>2018-10-23 12:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>14</tmn>
-					<tmx>19</tmx>
+					<tmx>21</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -1616,7 +1596,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-24 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>10</tmn>
+					<tmn>11</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -1626,15 +1606,25 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-24 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>10</tmn>
+					<tmn>11</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>9</tmn>
 					<tmx>21</tmx>
@@ -1648,7 +1638,7 @@
 					<wf>구름많음</wf>
 					<tmn>10</tmn>
 					<tmx>20</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -1657,7 +1647,17 @@
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>11</tmn>
-					<tmx>20</tmx>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1670,26 +1670,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>10</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>10</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>10</tmn>
@@ -1712,8 +1692,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>12</tmn>
-					<tmx>20</tmx>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1722,8 +1702,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>12</tmn>
-					<tmx>20</tmx>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1733,7 +1713,7 @@
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>13</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -1743,7 +1723,7 @@
 					<tmEf>2018-10-23 12:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>13</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -1752,7 +1732,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-24 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>13</tmn>
+					<tmn>12</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -1762,17 +1742,27 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-24 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>13</tmn>
+					<tmn>12</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>12</tmn>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>10</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -1784,7 +1774,7 @@
 					<wf>구름많음</wf>
 					<tmn>12</tmn>
 					<tmx>21</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -1792,8 +1782,18 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>13</tmn>
-					<tmx>21</tmx>
+					<tmn>12</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>11</tmn>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1806,26 +1806,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>12</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>12</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>12</tmn>
@@ -1848,8 +1828,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>14</tmn>
-					<tmx>20</tmx>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1858,8 +1838,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>14</tmn>
-					<tmx>20</tmx>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1868,7 +1848,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>14</tmn>
+					<tmn>15</tmn>
 					<tmx>21</tmx>
 					<reliability>낮음</reliability>
 				</data>
@@ -1878,7 +1858,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>14</tmn>
+					<tmn>15</tmn>
 					<tmx>21</tmx>
 					<reliability>낮음</reliability>
 				</data>
@@ -1905,10 +1885,20 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>13</tmn>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>12</tmn>
 					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -1920,7 +1910,7 @@
 					<wf>구름많음</wf>
 					<tmn>13</tmn>
 					<tmx>20</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -1928,7 +1918,17 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>14</tmn>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>13</tmn>
 					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -1944,30 +1944,10 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>6</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>6</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>7</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1977,7 +1957,7 @@
 					<tmEf>2018-10-21 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>7</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2006,8 +1986,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>9</tmn>
-					<tmx>20</tmx>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -2016,8 +1996,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>9</tmn>
-					<tmx>20</tmx>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -2043,11 +2023,21 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>8</tmn>
-					<tmx>18</tmx>
+					<tmn>7</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>7</tmn>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2056,9 +2046,9 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-26 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>9</tmn>
+					<tmn>8</tmn>
 					<tmx>18</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -2066,8 +2056,18 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>9</tmn>
+					<tmn>10</tmn>
 					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>8</tmn>
+					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2080,30 +2080,10 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>7</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>7</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>8</tmn>
-					<tmx>19</tmx>
+					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2113,7 +2093,7 @@
 					<tmEf>2018-10-21 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>8</tmn>
-					<tmx>19</tmx>
+					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2123,7 +2103,7 @@
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>8</tmn>
-					<tmx>20</tmx>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2133,7 +2113,7 @@
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>8</tmn>
-					<tmx>20</tmx>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2142,8 +2122,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>8</tmn>
-					<tmx>20</tmx>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -2152,8 +2132,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>8</tmn>
-					<tmx>20</tmx>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -2162,8 +2142,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-24 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>9</tmn>
-					<tmx>18</tmx>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2172,18 +2152,28 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-24 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>9</tmn>
-					<tmx>18</tmx>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>8</tmn>
-					<tmx>18</tmx>
+					<tmn>7</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>7</tmn>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2194,7 +2184,7 @@
 					<wf>구름많음</wf>
 					<tmn>8</tmn>
 					<tmx>18</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -2202,8 +2192,18 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>8</tmn>
-					<tmx>16</tmx>
+					<tmn>9</tmn>
+					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>6</tmn>
+					<tmx>17</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2218,26 +2218,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>11</tmn>
-					<tmx>22</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>11</tmn>
-					<tmx>22</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>12</tmn>
@@ -2260,8 +2240,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>12</tmn>
-					<tmx>21</tmx>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2270,8 +2250,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>12</tmn>
-					<tmx>21</tmx>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2280,8 +2260,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>13</tmn>
-					<tmx>20</tmx>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -2290,8 +2270,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>13</tmn>
-					<tmx>20</tmx>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -2301,7 +2281,7 @@
 					<tmEf>2018-10-24 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>13</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2311,17 +2291,27 @@
 					<tmEf>2018-10-24 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>13</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>12</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2331,8 +2321,8 @@
 					<tmEf>2018-10-26 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>12</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
+					<tmx>19</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -2341,6 +2331,16 @@
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>12</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>11</tmn>
 					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2354,26 +2354,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>21</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>21</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>9</tmn>
@@ -2396,7 +2376,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>10</tmn>
+					<tmn>11</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2406,7 +2386,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>10</tmn>
+					<tmn>11</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2416,8 +2396,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>11</tmn>
-					<tmx>19</tmx>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -2426,8 +2406,8 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-23 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>11</tmn>
-					<tmx>19</tmx>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
@@ -2453,8 +2433,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>9</tmn>
 					<tmx>19</tmx>
@@ -2467,14 +2457,24 @@
 					<tmEf>2018-10-26 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>9</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
+					<tmx>18</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<mode>A01</mode>
 					<tmEf>2018-10-27 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>9</tmn>
 					<tmx>18</tmx>
@@ -2490,26 +2490,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>21</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>21</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>9</tmn>
@@ -2532,7 +2512,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>10</tmn>
+					<tmn>11</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2542,7 +2522,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>10</tmn>
+					<tmn>11</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2589,8 +2569,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>10</tmn>
 					<tmx>19</tmx>
@@ -2603,8 +2593,8 @@
 					<tmEf>2018-10-26 00:00</tmEf>
 					<wf>구름많음</wf>
 					<tmn>10</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
+					<tmx>18</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -2613,6 +2603,16 @@
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>9</tmn>
 					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -2628,30 +2628,10 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>7</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>7</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>8</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2661,7 +2641,7 @@
 					<tmEf>2018-10-21 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>8</tmn>
-					<tmx>20</tmx>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2727,8 +2707,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>8</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>8</tmn>
 					<tmx>19</tmx>
@@ -2742,7 +2732,7 @@
 					<wf>구름많음</wf>
 					<tmn>9</tmn>
 					<tmx>18</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -2751,7 +2741,17 @@
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>9</tmn>
-					<tmx>17</tmx>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>8</tmn>
+					<tmx>18</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -2764,26 +2764,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>4</tmn>
@@ -2863,8 +2843,18 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>6</tmn>
+					<tmx>18</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>6</tmn>
 					<tmx>18</tmx>
@@ -2878,7 +2868,7 @@
 					<wf>구름많음</wf>
 					<tmn>6</tmn>
 					<tmx>17</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -2891,32 +2881,22 @@
 					<reliability>보통</reliability>
 				</data>
 
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>4</tmn>
+					<tmx>17</tmx>
+					<reliability>보통</reliability>
+				</data>
+
 
 		</location>
 
 		<location wl_ver="3">
 				<province>대구ㆍ경상북도</province>
 				<city>포항</city>
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>9</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
 				
 				<data>
 					<mode>A02</mode>
@@ -2999,10 +2979,20 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>9</tmn>
+					<tmn>10</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>10</tmn>
 					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -3014,7 +3004,7 @@
 					<wf>구름많음</wf>
 					<tmn>10</tmn>
 					<tmx>20</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
@@ -3023,6 +3013,16 @@
 					<tmEf>2018-10-27 00:00</tmEf>
 					<wf>구름조금</wf>
 					<tmn>11</tmn>
+					<tmx>19</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>10</tmn>
 					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -3038,29 +3038,9 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>13</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>13</tmn>
-					<tmx>19</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
-					<tmn>13</tmn>
+					<tmn>14</tmn>
 					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -3070,7 +3050,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-21 12:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>13</tmn>
+					<tmn>14</tmn>
 					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -3080,7 +3060,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>14</tmn>
+					<tmn>15</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -3090,7 +3070,7 @@
 					<mode>A02</mode>
 					<tmEf>2018-10-22 12:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>14</tmn>
+					<tmn>15</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -3119,7 +3099,7 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-24 00:00</tmEf>
-					<wf>구름조금</wf>
+					<wf>구름많음</wf>
 					<tmn>14</tmn>
 					<tmx>20</tmx>
 					<reliability>보통</reliability>
@@ -3137,10 +3117,20 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>14</tmn>
+					<tmn>13</tmn>
+					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>13</tmn>
 					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -3150,7 +3140,7 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-26 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>13</tmn>
+					<tmn>14</tmn>
 					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -3162,6 +3152,16 @@
 					<wf>구름조금</wf>
 					<tmn>14</tmn>
 					<tmx>20</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>13</tmn>
+					<tmx>19</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -3174,26 +3174,6 @@
 				
 				<data>
 					<mode>A02</mode>
-					<tmEf>2018-10-20 00:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>13</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
-					<tmEf>2018-10-20 12:00</tmEf>
-					<wf>맑음</wf>
-					<tmn>13</tmn>
-					<tmx>20</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<mode>A02</mode>
 					<tmEf>2018-10-21 00:00</tmEf>
 					<wf>맑음</wf>
 					<tmn>13</tmn>
@@ -3255,7 +3235,7 @@
 				<data>
 					<mode>A02</mode>
 					<tmEf>2018-10-24 00:00</tmEf>
-					<wf>구름조금</wf>
+					<wf>구름많음</wf>
 					<tmn>15</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
@@ -3273,10 +3253,20 @@
 
 				
 				<data>
-					<mode>A01</mode>
+					<mode>A02</mode>
 					<tmEf>2018-10-25 00:00</tmEf>
 					<wf>구름조금</wf>
-					<tmn>14</tmn>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2018-10-25 12:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>13</tmn>
 					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -3286,8 +3276,8 @@
 					<mode>A01</mode>
 					<tmEf>2018-10-26 00:00</tmEf>
 					<wf>구름많음</wf>
-					<tmn>13</tmn>
-					<tmx>20</tmx>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -3298,6 +3288,16 @@
 					<wf>구름조금</wf>
 					<tmn>14</tmn>
 					<tmx>21</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2018-10-28 00:00</tmEf>
+					<wf>구름조금</wf>
+					<tmn>14</tmn>
+					<tmx>20</tmx>
 					<reliability>보통</reliability>
 				</data>
 

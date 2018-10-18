@@ -20,16 +20,15 @@ soup = BeautifulSoup(xml, 'html.parser')
 info = {}
 for location in soup.find_all("location"):
     loc = location.find('city').string
-    data = location.find_all('tmn')
+    weather = location.find_all("tmn")
     #print(weather)
     if not (loc in info):
         info[loc] = []
-    for tmn in data:
-        weather = tmn.string
-        info[loc].append(weather)
-#        info[loc].append(tmx)
+    for tmn in weather:
+        info[loc].append(tmn.string)
 
-print(info)
+
+#print(info)
 
 # 각 지역의 날씨 출력
 with open('e:/python_section4/forecast.txt', "wt", encoding="utf-8") as f:
