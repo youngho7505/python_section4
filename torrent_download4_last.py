@@ -49,4 +49,4 @@ def torrent_cralwler(max_page):
 
 #실행
 if __name__ == '__main__':
-    torrent_cralwler(4)
+    torrent_cralwler(8)
